@@ -11,3 +11,5 @@ A = x+Y
 B = x-Y
 C = A+B
 print(C)
+
+print(A+B+C+A*B+C*A*B+C*C)
